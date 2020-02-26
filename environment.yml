@@ -1,0 +1,10 @@
+name: maximum-clique
+channels:
+    - conda-forge
+dependencies:
+    - python
+    - pip
+    - numpy
+    - matplotlib
+    - jupyter
+    - networkx
